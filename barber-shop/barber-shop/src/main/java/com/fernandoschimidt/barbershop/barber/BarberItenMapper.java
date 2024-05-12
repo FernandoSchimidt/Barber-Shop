@@ -20,7 +20,6 @@ public class BarberItenMapper {
                 .service(iten.getService())
                 .description(iten.getDescription())
                 .price(iten.getPrice())
-                .owner(iten.getOwner().fullName())
                 .build();
     }
 }

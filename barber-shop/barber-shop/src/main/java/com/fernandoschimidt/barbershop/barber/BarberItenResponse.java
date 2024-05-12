@@ -12,5 +12,5 @@ public class BarberItenResponse {
     private String service;
     private String description;
     private Double price;
-    private String owner;
+
 }
